@@ -11,7 +11,6 @@ This project was built for learning and practicing file uploads, middleware, and
 * Upload images using Multer
 * Store uploaded images on the server
 * Compress images using Sharp
-* Resize and optimize uploaded images
 * Display the compressed image on a success page
 * Simple and clean UI
 * Beginner-friendly project structure
