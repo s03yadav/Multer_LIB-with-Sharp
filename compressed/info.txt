@@ -1,0 +1,1 @@
+Sample compressed img will be saved here
