@@ -49,7 +49,7 @@ project/
 │
 ├── app.js
 ├── package.json
-└── README.md
+
 ```
 
 ---
@@ -83,7 +83,7 @@ npm start
 Open your browser and visit:
 
 ```
-http://localhost:3000
+http://localhost:8000
 ```
 
 ---
